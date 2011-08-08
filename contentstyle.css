@@ -1,0 +1,20 @@
+/**
+ * Copyright (c) 2011 Dennis Hall <https://github.com/dennishall>.
+ * All rights reserved.  Use of this source code is governed by the MIT license.
+**/
+
+
+table[id$=ReportContainer] tr tr:hover,
+#grdReport tr:hover {
+  background: #C9E0FF !important;
+  cursor: pointer;
+}
+
+
+/* disable "get e-book" ad.
+   (I think they quit showing it after 5 views, tracked by a cookie.) */
+#freezelayer,
+#freezeLayer,
+#getebook {
+  display: none !important;
+}

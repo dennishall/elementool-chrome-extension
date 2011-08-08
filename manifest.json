@@ -1,0 +1,22 @@
+{
+  "name": "Elementool Pro",
+  "version": "1.0",
+  "description": "Enhances, improves elementool in a few ways. Adds row hover and row click = go to that ticket. Suppresses the annoying ebook advertisement. If you have a column titled \"Est. Effort (hrs)\", this script will display the column total.",
+  "content_scripts" : [
+    {
+      "matches" : [
+        "http://elementool.com/*",
+        "https://elementool.com/*",
+        "http://www.elementool.com/*",
+        "https://www.elementool.com/*"
+      ],
+      "js" : ["contentscript.js"],
+      "css" : ["contentstyle.css"],
+      "run_at" : "document_start",
+      "all_frames" : false
+    }
+  ],
+  "icons" : {
+    "48" : "icon-48.png"
+  }
+}
