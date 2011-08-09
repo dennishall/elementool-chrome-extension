@@ -82,3 +82,25 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 
 }); // end "domready"
+
+
+// TODO: ctrl/cmd n,enter for new ticket, submit form
+// FOR NOW: use "alt" instead of ctrl/cmd
+// http://groups.google.com/group/chromium-extensions/browse_thread/thread/c8f19e467f72ec37/29c176d1e71d1d4a?lnk=gst&q=shortcut#29c176d1e71d1d4a
+document.addEventListener('keydown', function(e){
+  //console.log((e.metaKey ? 'cmd-' : '') + (e.shiftKey ? 'shift-' : '') + (e.altKey ? 'alt-' : '') + String.fromCharCode(e.keyCode));
+  if(String.fromCharCode(e.keyCode) == 'N' && e.altKey){
+    // new ticket (could use img[@alt="New Issue"])
+    xpathForEach('//a[contains(@href,"/Services/BugTracking/NewIssue")]', function(i, item){
+      if(e.shiftKey){
+        // alt-shift-n  ::  open "New Issue" form in a new tab
+        open(item.href);
+      } else {
+        // alt-n  ::  open "New Issue" form in current tab
+        location.href = item.href;
+      }
+    });
+    //e.preventDefault();
+    return false;
+  }
+}); // end 'onkeydown'
