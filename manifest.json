@@ -1,7 +1,7 @@
 {
   "name": "Elementool Pro",
   "version": "1.0",
-  "description": "Blocks the advertisement that you have to close before you can use elementool. Highlights whatever row is under your cursor and allows you to click anywhere on the row to go to that ticket. Adds two keyboard shortcuts: `alt`+`n` opens the \"new ticket\" page in the current tab, `shift`+`alt`+`n` opens the \"new ticket\" page in a new tab.",
+  "description": "Blocks the advertisement that you have to close before you can use elementool. Highlights whatever row is under your cursor and allows you to click anywhere on the row to go to that ticket. Adds two keyboard shortcuts: `alt`+`n` opens the \"new ticket\" page in the current tab, `shift`+`alt`+`n` opens the \"new ticket\" page in a new tab. Links the elementool logo to your \"welcome\" page.",
   "content_scripts" : [
     {
       "matches" : [
