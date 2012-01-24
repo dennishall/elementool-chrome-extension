@@ -10,7 +10,7 @@ Features
 How to install it
 -----------------
  1. <a href="https://github.com/dennishall/elementool-chrome-extension/raw/master/elementool-chrome-extension.crx">
-    Click to install!</a>
+    Click to install!</a> (Note: if chrome is not your default browser, copy & paste the link into chrome.)
 
 -- OR --
 
