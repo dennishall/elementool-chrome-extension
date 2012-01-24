@@ -11,7 +11,9 @@ How to install it
 -----------------
  1. <a href="https://github.com/dennishall/elementool-chrome-extension/raw/master/elementool-chrome-extension.crx">
     Click to install!</a>
+
 -- OR --
+
  1. <a href="/dennishall/elementool-chrome-extension/zipball/master">Download a zip of this code</a>.
  1. Extract that download (it will create a folder to house the files, "dennishall-elementool-...")
  1. In chrome, open the extensions management page: Click the wrench icon <img
