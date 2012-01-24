@@ -9,7 +9,8 @@ Features
 
 How to install it
 -----------------
- 1. Download a zip of this code (todo: insert image of "zip download" github button)
+ 1. Download a zip of this code (<img
+    src="http://drjavascript.com/githubzipbutton.png" />)
  1. Extract that download (it will create a folder to house the files, "dennishall-elementool-...")
  1. In chrome, open the extensions management page: click the wrench icon <img
     src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" />
