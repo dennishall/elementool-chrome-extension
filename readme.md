@@ -7,8 +7,8 @@ Features
  * Links the elementool logo to your "welcome" page
 
 
-Load the extension
-------------------
+How to install it
+-----------------
  * Bring up the extensions management page by clicking the wrench icon <img
    src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" /> and
    choosing Tools > Extensions.
