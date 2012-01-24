@@ -1,7 +1,7 @@
 {
   "name": "Elementool Pro",
   "version": "1.0",
-  "description": "Enhances, improves elementool in a few ways. Adds row hover and row click = go to that ticket. Suppresses the annoying ebook advertisement. If you have a column titled \"Est. Effort (hrs)\", this script will display the column total.",
+  "description": "Blocks the advertisement that you have to close before you can use elementool. Highlights whatever row is under your cursor and allows you to click anywhere on the row to go to that ticket. Adds two keyboard shortcuts: `alt`+`n` opens the \"new ticket\" page in the current tab, `shift`+`alt`+`n` opens the \"new ticket\" page in a new tab.",
   "content_scripts" : [
     {
       "matches" : [
