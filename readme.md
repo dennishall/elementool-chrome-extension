@@ -1,6 +1,5 @@
 Features
 --------
-
  * Blocks the advertisement that you have to close before you can use elementool.
  * Highlights the row under your cursor and allows you to click anywhere on the row to go to that ticket.
  * Adds a keyboard shortcut to create a new ticket: alt-n
@@ -10,7 +9,6 @@ Features
 
 Load the extension
 ------------------
-
  * Bring up the extensions management page by clicking the wrench icon <img
    src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" /> and
    choosing Tools > Extensions.
