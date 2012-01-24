@@ -9,7 +9,7 @@ Features
 
 How to install it
 -----------------
- 1. <a href="/dennishall/elementool-chrome-extension/zipball/master" class="minibutton btn-download" rel="nofollow" title="Download this repository as a zip file"><span><span class="icon"></span>Download a zip of this code</span></a>.
+ 1. <a href="/dennishall/elementool-chrome-extension/zipball/master">Download a zip of this code</a>.
  1. Extract that download (it will create a folder to house the files, "dennishall-elementool-...")
  1. In chrome, open the extensions management page: click the wrench icon (it's just to the right of
     the addressbar and looks like this: <img src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" />)
