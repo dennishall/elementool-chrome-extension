@@ -9,10 +9,13 @@ Features
 
 How to install it
 -----------------
- * Bring up the extensions management page by clicking the wrench icon <img
-   src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" /> and
-   choosing Tools > Extensions.
- * If Developer mode has a + by it, click the + to add developer information to
-   the page. The + changes to a -, and more buttons and information appear.
- * Click the Load unpacked extension button. A file dialog appears.
- * In the file dialog, navigate to your extension's folder and click OK.
+ 1. Download a zip of this code (todo: insert image of "zip download" github button)
+ 1. Extract that download (it will create a folder to house the files, "dennishall-elementool-...")
+ 1. In chrome, open the extensions management page: click the wrench icon <img
+    src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" />
+    and choose Tools > Extensions.
+ 1. If "Developer mode" has a + by it, click the + to add developer information to
+    the page. The + changes to a -, and more buttons and information appear.
+ 1. Click the "Load unpacked extension" button. A file dialog appears.
+ 1. In the file dialog, select (but do not open) the "dennishall-elementool-..." folder and click OK.
+ 1. Enjoy an enhanced elementool experience! Yay!
