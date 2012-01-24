@@ -11,8 +11,8 @@ How to install it
 -----------------
  1. <a href="/dennishall/elementool-chrome-extension/zipball/master">Download a zip of this code</a>.
  1. Extract that download (it will create a folder to house the files, "dennishall-elementool-...")
- 1. In chrome, open the extensions management page: click the wrench icon (it's just to the right of
-    the addressbar and looks like this: <img src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" />)
+ 1. In chrome, open the extensions management page: Click the wrench icon <img
+    src="http://code.google.com/chrome/extensions/images/toolsmenu.gif" />
     and choose Tools > Extensions.
  1. If "Developer mode" has a + by it, click the + to add developer information to
     the page. The + changes to a -, and more buttons and information appear.
